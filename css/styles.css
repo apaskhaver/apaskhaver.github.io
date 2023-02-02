@@ -2643,53 +2643,10 @@ svg {
   pointer-events: auto !important;
 }
 
-.rounded {
-  border-radius: 0.25rem !important;
-}
-
-.rounded-0 {
-  border-radius: 0 !important;
-}
-
-.rounded-1 {
-  border-radius: 0.2rem !important;
-}
-
-.rounded-2 {
-  border-radius: 0.25rem !important;
-}
-
-.rounded-3 {
-  border-radius: 0.3rem !important;
-}
-
 .rounded-circle {
   border-radius: 50% !important;
 }
 
-.rounded-pill {
-  border-radius: 50rem !important;
-}
-
-.rounded-top {
-  border-top-left-radius: 0.25rem !important;
-  border-top-right-radius: 0.25rem !important;
-}
-
-.rounded-end {
-  border-top-right-radius: 0.25rem !important;
-  border-bottom-right-radius: 0.25rem !important;
-}
-
-.rounded-bottom {
-  border-bottom-right-radius: 0.25rem !important;
-  border-bottom-left-radius: 0.25rem !important;
-}
-
-.rounded-start {
-  border-bottom-left-radius: 0.25rem !important;
-  border-top-left-radius: 0.25rem !important;
-}
 
 @media (min-width: 992px) {
   .d-lg-block {
@@ -2700,17 +2657,6 @@ svg {
     display: grid !important;
   }
 
-  .d-lg-table {
-    display: table !important;
-  }
-
-  .d-lg-table-row {
-    display: table-row !important;
-  }
-
-  .d-lg-table-cell {
-    display: table-cell !important;
-  }
 
   .d-lg-flex {
     display: flex !important;
@@ -2795,6 +2741,7 @@ p.lead {
     width: 17rem;
     height: 100vh;
   }
+  
   #sideNav .navbar-brand {
     display: flex;
     margin: auto auto 0;
