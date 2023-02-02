@@ -407,7 +407,7 @@ svg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #bd5d38;
+  color: #0dcaf0;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out;
@@ -467,7 +467,7 @@ svg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #0dcaf0;
 }
 
 .nav-fill > .nav-link,
@@ -1207,7 +1207,7 @@ svg {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: #0dcaf0 !important;
 }
 
 .border-secondary {
@@ -1741,7 +1741,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #0dcaf0;
 }
 
 .dev-icons {
