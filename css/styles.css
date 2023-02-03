@@ -71,6 +71,16 @@ h1,
   color: #343a40;
 }
 
+h2 {
+  color: #343a40;
+  font-weight: 700;
+}
+
+h3 {
+  margin-top: -1rem;
+  font-weight: 300;
+}
+
 h1,
 .h1 {
   font-size: calc(1.725rem + 5.7vw);
@@ -224,13 +234,6 @@ img {
 .nav-fill .nav-item .nav-link,
 .nav-justified .nav-item .nav-link {
   width: 100%;
-}
-
-.tab-content > .tab-pane {
-  display: none;
-}
-.tab-content > .active {
-  display: block;
 }
 
 .navbar {
