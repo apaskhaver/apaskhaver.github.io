@@ -456,10 +456,6 @@ img {
   display: block !important;
 }
 
-.d-none {
-  display: none !important;
-}
-
 /* rtl:begin:remove */
 .text-break {
   word-wrap: break-word !important;
@@ -502,6 +498,7 @@ img {
     display: none !important;
   }
 }
+
 body {
   padding-top: 3.375rem;
   color: #6c757d;
