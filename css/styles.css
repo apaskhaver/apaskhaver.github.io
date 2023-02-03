@@ -93,8 +93,8 @@ h1,
 }
 
 p {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 a {
@@ -456,6 +456,10 @@ img {
   display: block !important;
 }
 
+.d-none {
+  display: none !important;
+}
+
 /* rtl:begin:remove */
 .text-break {
   word-wrap: break-word !important;
@@ -498,7 +502,6 @@ img {
     display: none !important;
   }
 }
-
 body {
   padding-top: 3.375rem;
   color: #6c757d;
