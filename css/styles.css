@@ -40,9 +40,10 @@ h1,
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont,
     "Segoe UI";
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1;
   color: #343a40;
   font-size: calc(1.725rem + 5.7vw);
+  text-transform: uppercase;
 }
 
 h2 {
@@ -346,17 +347,6 @@ body {
     padding-left: 17rem;
   }
 }
-
-h1,
-.h1 {
-  text-transform: uppercase;
-}
-
-h1,
-.h1 {
-  line-height: 1;
-}
-
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
